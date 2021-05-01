@@ -7,4 +7,15 @@ using namespace std;
 using intpair = pair<int, int>;
 
 int main() {
+    string s;
+    cin >> s;
+    int n = s.length();
+    long ans = ((n - 1) << 1);
+
+    repi(int, i, 1, n - 1) 
+        ans += n - 1 + ((s[i] == 'U') ?
+        i : (n - 1) - i);
+
+    cout << ans << endl;
+    return 0;
 }

@@ -33,7 +33,7 @@
 
 ### AGC015 (https://atcoder.jp/contests/agc015)
   * [ ] A
-  * [ ] B
+  * [x] B
   * [ ] C
   * [ ] D
   * [ ] E
