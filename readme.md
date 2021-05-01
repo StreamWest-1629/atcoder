@@ -16,7 +16,7 @@
 ### ABC122 (https://atcoder.jp/contests/abc122)
   * [ ] A
   * [ ] B
-  * [ ] C
+  * [x] C
   * [ ] D
   * [ ] E
   * [ ] F
