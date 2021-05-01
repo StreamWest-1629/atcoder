@@ -7,4 +7,13 @@ using namespace std;
 using intpair = pair<int, int>;
 
 int main() {
+    string s;
+    int ans = 0;
+    cin >> s;
+    rep(int, i, 9) {
+        if (s.substr(i, 4) == "ZONe")
+            ans++;
+    }
+    cout << ans << endl;
+    return 0;
 }

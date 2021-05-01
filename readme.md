@@ -32,8 +32,8 @@
 ## ABC-Like
 
 ### Zone2021 (https://atcoder.jp/contests/zone2021)
-  * [ ] A
-  * [ ] B
+  * [x] A
+  * [x] B
   * [ ] C
   * [ ] D
   * [ ] E
