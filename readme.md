@@ -55,6 +55,14 @@
   * [ ] E
   * [ ] F
 
+### CADDi2018 (https://atcoder.jp/contests/caddi2018)
+  * [ ] A
+  * [ ] B
+  * [ ] C
+  * [ ] D
+  * [ ] E
+  * [ ] F
+
 ## AGC (AtCoder Grand Contest)
 
 ### AGC015 (https://atcoder.jp/contests/agc015)
