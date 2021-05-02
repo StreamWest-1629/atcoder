@@ -7,4 +7,5 @@ using namespace std;
 using intpair = pair<int, int>;
 
 int main() {
+    return 0;
 }
