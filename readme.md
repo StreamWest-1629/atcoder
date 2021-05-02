@@ -49,6 +49,14 @@
   * [ ] E
   * [ ] F
 
+### AGC009 (https://atcoder.jp/contests/agc009)
+  * [ ] A
+  * [ ] B
+  * [ ] C
+  * [ ] D
+  * [ ] E
+  * [ ] F
+
 ## 典型90問 (https://atcoder.jp/contests/typical90)
   * [ ] 001
   * [x] 002
