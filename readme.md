@@ -58,7 +58,7 @@
 ### CADDi2018 (https://atcoder.jp/contests/caddi2018)
   * [ ] A
   * [ ] B
-  * [ ] C
+  * [x] C
   * [ ] D
   * [ ] E
   * [ ] F
