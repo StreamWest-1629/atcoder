@@ -74,8 +74,8 @@
 ### Jsc2021 (https://atcoder.jp/contests/jsc2021)
   * [ ] A
   * [ ] B
-  * [x] C
-  * [ ] D
+  * [ ] C
+  * [x] D
   * [ ] E
   * [ ] F
 
