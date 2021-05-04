@@ -7,5 +7,14 @@ using namespace std;
 using intpair = pair<int, int>;
 
 int main() {
+    int i = 0;
+    int ans = 0;
+    int x;
+    cin >> x;
+    while (i < x) {
+        ans++;
+        i += ans;
+    }
+    cout << ans;
     return 0;
 }

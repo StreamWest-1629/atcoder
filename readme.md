@@ -7,7 +7,7 @@
 
 ### ABC056 (https://atcoder.jp/contests/abc056)
   * [ ] A
-  * [ ] B
+  * [x] B
   * [ ] C
   * [ ] D
   * [ ] E
