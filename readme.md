@@ -32,7 +32,7 @@
 ### ABC146 (https://atcoder.jp/contests/abc146)
   * [ ] A
   * [ ] B
-  * [ ] C
+  * [x] C
   * [ ] D
   * [ ] E
   * [ ] F
