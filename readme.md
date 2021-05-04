@@ -90,7 +90,7 @@
   * [ ] F
 
 ### AGC032 (https://atcoder.jp/contests/agc032)
-  * [ ] A
+  * [x] A
   * [ ] B
   * [ ] C
   * [ ] D
