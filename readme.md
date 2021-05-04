@@ -71,6 +71,14 @@
   * [ ] E
   * [ ] F
 
+### Jsc2021 (https://atcoder.jp/contests/jsc2021)
+  * [ ] A
+  * [ ] B
+  * [x] C
+  * [ ] D
+  * [ ] E
+  * [ ] F
+
 ## AGC (AtCoder Grand Contest)
 
 ### AGC009 (https://atcoder.jp/contests/agc009)
