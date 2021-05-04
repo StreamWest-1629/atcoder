@@ -65,6 +65,14 @@
 
 ## AGC (AtCoder Grand Contest)
 
+### AGC009 (https://atcoder.jp/contests/agc009)
+  * [ ] A
+  * [ ] B
+  * [ ] C
+  * [ ] D
+  * [ ] E
+  * [ ] F
+
 ### AGC015 (https://atcoder.jp/contests/agc015)
   * [ ] A
   * [x] B
@@ -73,7 +81,7 @@
   * [ ] E
   * [ ] F
 
-### AGC009 (https://atcoder.jp/contests/agc009)
+### AGC032 (https://atcoder.jp/contests/agc032)
   * [ ] A
   * [ ] B
   * [ ] C
