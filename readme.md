@@ -92,7 +92,7 @@
 ### ARC068 (https://atcoder.jp/contests/arc068)
   * [ ] A
   * [ ] B
-  * [ ] C
+  * [x] C
   * [ ] D
   * [ ] E
   * [ ] F

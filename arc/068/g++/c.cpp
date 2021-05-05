@@ -7,5 +7,20 @@ using namespace std;
 using intpair = pair<int, int>;
 
 int main() {
+    long long x, ans, mod;
+    cin >> x;
+    ans = x / 11;
+    ans *= 2;
+    mod = x % 11;
+    if (mod > 0)
+        if (mod < 7)
+            ans++;
+        else if (mod == 7) 
+            ans += 2;
+        else 
+            ans += 2;
+
+    cout << ans;
+
     return 0;
 }
