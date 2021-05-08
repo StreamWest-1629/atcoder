@@ -7,6 +7,8 @@
             "args": [
                 "-g",
                 "${file}",
+                "-I",
+                "${workspaceFolder}\\library\\ac-library",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
