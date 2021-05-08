@@ -9,5 +9,26 @@ using namespace atcoder;
 using intpair = pair<int, int>;
 
 int main() {
+    int n, k, i = 0, num = 0, ans[3] = { 0 }, buf = 3;
+    cin >> n >> k;
+
+    auto Increment = [&]() {
+        if (ans[1] == k || ans[2] == 1) {
+            buf++;
+            ans[2] = max(k, buf - ans[0] - 1);
+            ans[1] = buf - ans[0] - ans[2];
+        }
+        else {
+            ans[1]++;
+            ans[2]--;
+        }
+    };
+
+
+    rep(int, i, 3) ans[i] = 1;
+    rep(int, i, k - 1) Increment();
+
+    cout << ans[0] << " " << ans[1] << " " << ans[2];
+
     return 0;
 }

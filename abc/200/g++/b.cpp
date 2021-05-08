@@ -9,5 +9,15 @@ using namespace atcoder;
 using intpair = pair<int, int>;
 
 int main() {
+    long long n, k;
+    cin >> n >> k;
+    rep(int, i, k) {
+        if (n % 200 == 0) {
+            n /= 200;
+        } else {
+            n = n * 1000 + 200;
+        }
+    }
+    cout << n;
     return 0;
 }

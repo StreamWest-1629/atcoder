@@ -9,5 +9,19 @@ using namespace atcoder;
 using intpair = pair<int, int>;
 
 int main() {
+    int n, mod[205] = { 0 };
+    long long ans = 0;
+    cin >> n;
+    rep(int, i, n) {
+        long long a;
+        cin >> a;
+        mod[a % 200]++;
+    }
+    rep(int, i, 205) {
+        ans += (mod[i] * (mod[i] - 1)) / 2;
+    }
+
+    cout << ans;
+    
     return 0;
 }

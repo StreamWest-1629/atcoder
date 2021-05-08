@@ -9,5 +9,8 @@ using namespace atcoder;
 using intpair = pair<int, int>;
 
 int main() {
+    int in;
+    cin >> in;
+    cout << (in - 1) / 100 + 1 << endl;
     return 0;
 }

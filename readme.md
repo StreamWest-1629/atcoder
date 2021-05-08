@@ -62,8 +62,8 @@
   * [ ] F
 
 ### ABC200 (https://atcoder.jp/contests/abc200)
-  * [ ] A
-  * [ ] B
+  * [x] A
+  * [x] B
   * [ ] C
   * [ ] D
   * [ ] E
