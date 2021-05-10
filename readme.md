@@ -100,7 +100,7 @@
 ### ARC059 (https://atcoder.jp/contests/arc059)
   * [ ] A
   * [ ] B
-  * [ ] C
+  * [x] C
   * [ ] D
   * [ ] E
   * [ ] F
