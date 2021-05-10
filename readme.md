@@ -97,6 +97,14 @@
 
 ## ARC (AtCoder Regular Contest)
 
+### ARC059 (https://atcoder.jp/contests/arc059)
+  * [ ] A
+  * [ ] B
+  * [ ] C
+  * [ ] D
+  * [ ] E
+  * [ ] F
+
 ### ARC068 (https://atcoder.jp/contests/arc068)
   * [ ] A
   * [ ] B
