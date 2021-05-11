@@ -124,7 +124,7 @@
 ### ARC115 (https://atcoder.jp/contests/arc115)
   * [ ] A
   * [ ] B
-  * [ ] C
+  * [x] C
   * [ ] D
   * [ ] E
   * [ ] F
