@@ -16,7 +16,7 @@
 ### ABC061 (https://atcoder.jp/contests/abc061)
   * [ ] A
   * [ ] B
-  * [ ] C
+  * [x] C
   * [ ] D
   * [ ] E
   * [ ] F
