@@ -95,14 +95,6 @@
   * [ ] E
   * [ ] F
 
-### Jsc2021 (https://atcoder.jp/contests/jsc2021)
-  * [ ] A
-  * [ ] B
-  * [ ] C
-  * [x] D
-  * [ ] E
-  * [ ] F
-
 ## ARC (AtCoder Regular Contest)
 
 ### ARC059 (https://atcoder.jp/contests/arc059)
@@ -137,6 +129,14 @@
   * [x] B
   * [ ] C
   * [ ] D
+  * [ ] E
+  * [ ] F
+
+### Jsc2021 (https://atcoder.jp/contests/jsc2021)
+  * [ ] A
+  * [ ] B
+  * [ ] C
+  * [x] D
   * [ ] E
   * [ ] F
 
