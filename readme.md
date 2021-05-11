@@ -134,7 +134,7 @@
 
 ### JSC2019-qual (https://atcoder.jp/contests/jsc2019-qual)
   * [ ] A
-  * [ ] B
+  * [x] B
   * [ ] C
   * [ ] D
   * [ ] E
