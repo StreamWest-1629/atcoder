@@ -130,6 +130,17 @@
   * [ ] F
 
 
+## 日本最強プログラマー学生選手権
+
+### JSC2019-qual (https://atcoder.jp/contests/jsc2019-qual)
+  * [ ] A
+  * [ ] B
+  * [ ] C
+  * [ ] D
+  * [ ] E
+  * [ ] F
+
+
 ## AGC (AtCoder Grand Contest)
 
 ### AGC008 (https://atcoder.jp/contests/agc008)
