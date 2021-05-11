@@ -45,6 +45,14 @@
   * [ ] E
   * [ ] F
 
+### ABC142 (https://atcoder.jp/contests/abc142)
+  * [ ] A
+  * [ ] B
+  * [ ] C
+  * [ ] D
+  * [ ] E
+  * [ ] F
+
 ### ABC146 (https://atcoder.jp/contests/abc146)
   * [ ] A
   * [ ] B
