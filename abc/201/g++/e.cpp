@@ -8,5 +8,7 @@ using Int = long long;
 using uInt = unsigned long long;
 
 int main() {
+    Int n;
+    cin >> n;
     return 0;
 }

@@ -94,9 +94,9 @@
   * [ ] F
 
 ### ABC201 (https://atcoder.jp/contests/abc201)
-  * [ ] A
-  * [ ] B
-  * [ ] C
+  * [x] A
+  * [x] B
+  * [x] C
   * [ ] D
   * [ ] E
   * [ ] F
