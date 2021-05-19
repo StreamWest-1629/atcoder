@@ -5,7 +5,7 @@
             "includePath": [
                 "${workspaceFolder}",
                 "${workspaceFolder}/library/ac-library",
-                "C:\\MinGW\\include"
+                "C:\\msys64\\mingw64\\include"
             ],
             "defines": [
                 "_DEBUG",
