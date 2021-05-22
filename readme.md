@@ -47,7 +47,7 @@
 
 ### ABC142 (https://atcoder.jp/contests/abc142)
   * [ ] A
-  * [ ] B
+  * [x] B
   * [ ] C
   * [ ] D
   * [ ] E
