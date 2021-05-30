@@ -119,6 +119,15 @@
   * [ ] E
   * [ ] F
 
+### sumitb2019 (https://atcoder.jp/contests/sumitb2019)
+  * [ ] A
+  * [ ] B
+  * [ ] C
+  * [ ] D
+  * [ ] E
+  * [ ] F
+
+
 ## ARC (AtCoder Regular Contest)
 
 ### ARC059 (https://atcoder.jp/contests/arc059)
