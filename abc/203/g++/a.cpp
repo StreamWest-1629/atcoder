@@ -8,5 +8,16 @@ using Int = long long;
 using uInt = unsigned long long;
 
 int main() {
+    Int a, b, c;
+    cin >> a >> b >> c;
+    if (a == b) 
+        cout << c;
+    else if (b == c)
+        cout << a;
+    else if (c == a)
+        cout << b;
+    else 
+        cout << 0;
+    cout << endl;
     return 0;
 }
