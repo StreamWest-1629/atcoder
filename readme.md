@@ -200,7 +200,7 @@
   * [ ] F
 
 ### AGC017 (https://atcoder.jp/contests/agc017)
-  * [ ] A
+  * [x] A
   * [ ] B
   * [ ] C
   * [ ] D
