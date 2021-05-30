@@ -184,7 +184,7 @@
   * [ ] F
 
 ### AGC011 (https://atcoder.jp/contests/agc011)
-  * [ ] A
+  * [x] A
   * [ ] B
   * [ ] C
   * [ ] D
