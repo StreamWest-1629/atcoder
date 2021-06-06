@@ -110,10 +110,10 @@
   * [ ] F
 
 ### ABC204 (https://atcoder.jp/contests/abc204)
-  * [ ] A
-  * [ ] B
+  * [x] A
+  * [x] B
   * [ ] C
-  * [ ] D
+  * [x] D
   * [ ] E
   * [ ] F
 

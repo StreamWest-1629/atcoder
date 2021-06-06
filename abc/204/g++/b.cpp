@@ -8,5 +8,14 @@ using Int = long long;
 using uInt = unsigned long long;
 
 int main() {
+    Int num, ans = 0;
+    cin >> num;
+    rep(Int, i, num) {
+        int a;
+        cin >> a;
+        ans += max(0, a - 10);
+    }
+
+    cout << ans << endl;
     return 0;
 }
