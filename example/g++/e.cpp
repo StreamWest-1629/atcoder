@@ -7,6 +7,9 @@ using namespace std;
 using Int = long long;
 using uInt = unsigned long long;
 
+template<typename Ty>
+using in = const Ty&;
+
 int main() {
     return 0;
 }
