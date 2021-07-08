@@ -11,5 +11,10 @@ template<typename Ty>
 using in = const Ty&;
 
 int main() {
+
+    int a, b;
+    cin >> a >> b;
+
+    cout << (double)(a * b) / 100.0 << endl;
     return 0;
 }

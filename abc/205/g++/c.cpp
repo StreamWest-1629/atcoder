@@ -11,5 +11,20 @@ template<typename Ty>
 using in = const Ty&;
 
 int main() {
+    int a, b, c;
+    cin >> a >> b >> c;
+    string ans;
+
+    if (c % 2 == 0) {
+        a = abs(a);
+        b = abs(b);
+    }
+
+    if (a > b) ans = ">";
+    else if (a < b) ans = "<";
+    else ans = "=";
+
+    cout << ans << endl;
+
     return 0;
 }

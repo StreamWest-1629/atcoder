@@ -11,5 +11,20 @@ template<typename Ty>
 using in = const Ty&;
 
 int main() {
+    int num, a[1005] = { 0 };
+    cin >> num;
+    rep(Int, i, num) {
+        int b;
+        cin >> b;
+        a[b]++;
+    }
+    repi(Int, i, 1, num + 1) 
+        if (a[i] != 1) {
+        cout << "No" << endl;
+        return 0;
+    }
+
+    cout << "Yes" << endl;
+    
     return 0;
 }
